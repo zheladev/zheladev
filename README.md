@@ -1,1 +1,1 @@
-lol
+`cat zheladev > /dev/null`
